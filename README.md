@@ -8,7 +8,7 @@ Code quality and structure
 
 Understanding of programming concepts
 
-Ability to integrate AI tools effectively
+Ability to integrate AI programming tools effectively
 
 Documentation and version control practices
 AI_Programming_CAT1/
@@ -37,7 +37,6 @@ This repository contains solutions for CAT1 – an AI Programming assessment.
 
 ## Objectives
 - Demonstrate programming proficiency.
-- Apply AI tools effectively during development.
 - Write clean, maintainable, and well-documented code.
 
 ## Setup Instructions
@@ -62,7 +61,7 @@ This repository contains solutions for CAT1 – an AI Programming assessment.
 ## Tools Used
 - Python 3.x
 - Git & GitHub
-- AI Assistance tools (if applicable)
+- AI tools
 
 ## Learner
    Name
